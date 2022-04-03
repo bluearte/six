@@ -1,0 +1,3 @@
+[submodule "excons"]
+	path = excons
+	url = git@github.com:bluearte/excons.git

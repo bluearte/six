@@ -5,3 +5,9 @@ MANIFEST
 documentation/_build
 .tox
 six.egg-info
+
+/*.dblite
+/release
+/debug
+/eco
+/*.env.tmp
